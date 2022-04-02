@@ -16,12 +16,12 @@
       "id": "3",
       "text": "Task3",
       "day": "day 3",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "newtask",
       "day": "day 12",
-      "reminder": true,
+      "reminder": false,
       "id": "xTsxKGS"
     }
   ]
